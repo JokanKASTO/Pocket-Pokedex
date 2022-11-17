@@ -1,13 +1,15 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
+Pokedex
+Game
+Calculator
+Game Mods
 
-TODO
 
 ## If you plan to collaborate with one or two classmates, what are their names?
-
-TODO
+Alphin Shajan
+Dhruv Khandave
 
 ## Do you have any questions of your own?
-
-TODO
+No 
